@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# Employee Database: A Mystery in Two Parts
 =======
 # Employee_database_SQL: A Mystery in Two Parts
 >>>>>>> 351698d95a7408c01d0388a2f9894f5d2928eaa3
