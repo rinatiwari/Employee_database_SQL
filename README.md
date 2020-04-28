@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SQL Homework - Employee Database: A Mystery in Two Parts
+=======
+# Employee_database_SQL: A Mystery in Two Parts
+>>>>>>> 351698d95a7408c01d0388a2f9894f5d2928eaa3
 
 ![sql.png](sql.png)
 
@@ -73,6 +77,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 * If using a password, do not upload your password to your GitHub repository. See [https://www.youtube.com/watch?v=2uaTPmNvH0I](https://www.youtube.com/watch?v=2uaTPmNvH0I) and [https://martin-thoma.com/configuration-files-in-python/](https://martin-thoma.com/configuration-files-in-python/) for more information.
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+<<<<<<< HEAD
 
 3. Create a bar chart of average salary by title.
 
@@ -95,3 +100,5 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+>>>>>>> 351698d95a7408c01d0388a2f9894f5d2928eaa3
